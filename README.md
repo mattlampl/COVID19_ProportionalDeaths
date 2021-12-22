@@ -12,6 +12,5 @@ To solve this problem, I turned to the [New York Times COVID data repository](ht
  ![Figure 1: AVG Deaths and New Cases - 7 Day Average](https://github.com/mattlampl/COVID19_ProportionalDeaths/raw/main/output1.png)
 
 Figure 2: Proportion of new cases resulting in death
-![image](https://user-images.githubusercontent.com/13319538/147114106-1dbf2aba-a42d-43b9-b498-7a76abf68f00.png)
 
 ![Figure 2: Proportion of New Cases Resulting in Deaths](https://github.com/mattlampl/COVID19_ProportionalDeaths/raw/main/output2.png)

@@ -7,10 +7,10 @@ I noticed that I the news seemed to be reporting on rising case loads along with
 To solve this problem, I turned to the [New York Times COVID data repository](https://github.com/nytimes/covid-19-data).  I then created a Jupyter Notebook to pull the data from the NYT and added a new column representing proportions of deaths to cases.
 
 
- Figure 1: Rolling Average of new cases and deaths
+[Figure 1: Rolling Average of new cases and deaths](graph1.html)
  
  ![Figure 1: AVG Deaths and New Cases - 7 Day Average](https://github.com/mattlampl/COVID19_ProportionalDeaths/raw/main/output1.png)
 
-Figure 2: Proportion of new cases resulting in death
+[Figure 2: Proportion of new cases resulting in death](graph2.html)
 
 ![Figure 2: Proportion of New Cases Resulting in Deaths](https://github.com/mattlampl/COVID19_ProportionalDeaths/raw/main/output2.png)

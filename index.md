@@ -1,4 +1,4 @@
-# COVID19_ProportionalDeaths
+# COVID-19 Proportional Deaths
 
 During the COVID-19 surge of late 2021 fueled by the Omicron variant, I was glued to the news. Specifically, the [New York Times interactive graphs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjIiKmf0_f0AhVnq3IEHcO7A34QFnoECAkQAQ&url=https://www.nytimes.com/interactive/2021/us/covid-cases.html&usg=AOvVaw3H4cBYqcOslX5JuboWPJFD).
 
